@@ -64,7 +64,7 @@
         if (uname1 != '' && upswd1 != '' && upswd2 != '' && email1 != '' && upswd1 == upswd2)
 
 
-          alert("Register successfull");
+          alert("submit successfully");
                          
 
         }
